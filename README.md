@@ -1,4 +1,4 @@
-![nse-6379427400781616733-1663938208610 jpg](https://user-images.githubusercontent.com/99159580/191966828-3db48a13-fa7d-4222-a182-267ed4b3f834.jpg)
+![image (1)](https://user-images.githubusercontent.com/99159580/192111000-2acdd779-5c1f-47b9-96ad-6bf7a9ebbe35.png)
 
 ### Hare Krishna🌼
 <!--
