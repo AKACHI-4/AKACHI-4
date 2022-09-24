@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning javascript and React.
 - 👯 I’m looking to collaborate on java and javascript project.
 - 💬 Ask me about Fronted and DSA. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adarsh8304/) [Twitter](https://twitter.com/AKACHI_1)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adarsh8304/) [Twitter](https://twitter.com/AKACHI_1) {Discord](https://discord.gg/p3REu65s)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: coming soon🤡
