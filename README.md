@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Currently working on Backend Development
-- 🌱 Currently learning Node and JavaScript.
+- 🌱 Currently learning Flask and JavaScript.
 - 💬 Ask me about Fronted and DSA. 
 - 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/adarsh8304/) [Discord](https://discord.gg/p3REu65s)
 - 📍 Location: Dehradun
